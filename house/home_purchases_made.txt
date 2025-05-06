@@ -1,0 +1,12 @@
+First Name: Jazmine  Last Name: Cruz Age: 20  Home Type: Apartment  Model Type: Smart 
+First Name: Jane  Last Name: Cruz Age: 20  Home Type: Select House Type  Model Type: Standard 
+First Name: KK   Last Name: Bea    Age: 23      Home Type: Select House Type   Model Type: Smart 
+First Name: jj   Last Name: cc    Age: 23      Home Type: Townhouse   Model Type: Standard 
+First Name: jj   Last Name: cc    Age: 23      Home Type: Apartment   Model Type: Standard 
+First Name: test   Last Name: three    Age: 23      Home Type: Townhouse   Model Type: Standard 
+First Name: test   Last Name: four    Age: 23      Home Type: Townhouse   Model Type: Standard 
+First Name: test   Last Name: five    Age: 23      Home Type: Townhouse   Model Type: Standard 
+First Name: test   Last Name: six    Age: 23      Home Type: Apartment   Model Type: Standard 
+First Name: test   Last Name: seven    Age: 23      Home Type: Apartment   Model Type: Standard 
+First Name: test   Last Name: eight    Age: 23      Home Type: Apartment   Model Type: Standard 
+First Name: Jane   Last Name: Cruz    Age: 20      Home Type: Luxury Villa   Model Type: Luxury 

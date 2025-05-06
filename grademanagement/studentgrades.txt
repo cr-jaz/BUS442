@@ -1,0 +1,4 @@
+1001, Fred Renk, 86, B 
+1002, Steve Allen, 87, B 
+1003, Genna Wood, 92, A 
+1004, John Doe, 98, A 
